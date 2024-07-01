@@ -1,7 +1,5 @@
 # Davin-Ai-jailbreak-dar-v1-by-rabbe
 
-# Project Title
-
 Brief description of your project.
 
 ## Table of Contents
@@ -21,9 +19,9 @@ Provide an introduction to your project. Explain what it does, the problem it so
 ## Features
 
 List the key features of your project. For example:
-- Feature 1
-- Feature 2
-- Feature 3
+- Easy Coding
+- Fast Coding
+- NO lag Codeing
 
 ## Installation
 
