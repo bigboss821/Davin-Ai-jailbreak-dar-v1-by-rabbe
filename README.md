@@ -1,6 +1,6 @@
 # Davin-Ai-jailbreak-dar-v1-by-rabbe
 
-Brief description of your project.
+Powerfull ai coding jailbreak .
 
 ## Table of Contents
 
@@ -29,4 +29,4 @@ Step-by-step instructions on how to install and set up your project.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/bigboss821/Davin-Ai-jailbreak-dar-v1-by-rabbe.git
